@@ -187,7 +187,3 @@ To undo the latest migration:
 ```bash
 npm run knex -- migrate:rollback
 ```
-
-## 📝 License
-
-This project is under the MIT license.
